@@ -19,8 +19,5 @@ The smart city application has five modules:
 
 ● Business module – This module focuses on offering business-related news, information, and opportunities in the city. Users can access information on trade and business centers and industries in the city.
 
-UML Diagrams
-
-1) Class Diagram
 
 2) Linktovideo: https://drive.google.com/file/d/11CPKcr8pexabv58_sSDoy0kEO3OX7uaC/view?usp=sharing
